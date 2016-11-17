@@ -1,0 +1,43 @@
+{
+    "0": {
+        "category": "Retail",
+        "city": "Milwaukee",
+        "company": "Google",
+        "description": "Nulla ut erat id mauris vulputate elementum. Nu...",
+        "email": "kshaw@phoca.cz",
+        "phone": "1-(414)274-3262",
+        "state": "Wisconsin",
+        "street_address": "569 Sheriden Terrace",
+        "years_in_business": "7",
+        "zipcode": "63454"
+
+    },
+
+    "1": {
+        "category": "IT",
+        "city": "Milwaukee",
+        "company": "Apple",
+        "description": "Nulla ut erat id mauris vulputate elementum. Nu...",
+        "email": "kshaw@phoca.cz",
+        "phone": "1-(414)274-3262",
+        "state": "Wisconsin",
+        "street_address": "569 Sheriden Terrace",
+        "years_in_business": "7",
+        "zipcode": "63454"
+
+    },
+
+    "2": {
+        "category": "IT",
+        "city": "Milwaukee",
+        "company": "Microsoft",
+        "description": "Nulla ut erat id mauris vulputate elementum. Nu...",
+        "email": "kshaw@phoca.cz",
+        "phone": "1-(414)274-3262",
+        "state": "Wisconsin",
+        "street_address": "569 Sheriden Terrace",
+        "years_in_business": "7",
+        "zipcode": "63454"
+
+    }
+}
